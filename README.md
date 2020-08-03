@@ -4,7 +4,7 @@ This code decrypts caeser cipher
 
 ## Input
 
-A string of characters containing only small case letters or spaces
+A string of characters containing only lowercase letters (for .c file / for .py file only uppercase letters) or spaces
 
 Example:
 
