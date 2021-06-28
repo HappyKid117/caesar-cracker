@@ -1,6 +1,6 @@
 # caesar-cracker
 
-This code decrypts caeser cipher
+This code decrypts caesar cipher
 
 ## Input
 
